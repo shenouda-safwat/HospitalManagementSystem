@@ -34,7 +34,8 @@ A **full-featured Hospital Management System** developed in **Java using Swing G
 - Abdelwahab Selim  
 - Abdallah Mohamed  
 - Fatma Emad  
-- Aya Eltaher   
+- Aya Eltaher
+- Mohamed Mahmoud
 
 ## 📂 Repository Structure
 ##  @Shenouda Safwat 
